@@ -1,0 +1,24 @@
+Betreff: Maßgefertigte Tischlerarbeiten für Ihr Zuhause — Karl Brink, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+ob Einbauschrank, neue Fenster oder eine individuelle Holzlösung — bei der Tischlerei Brink in Hamburg fertigen wir alles nach Maß und mit Liebe zum Detail.
+
+Was wir für Sie tun können:
+
+→ Einbaumöbel & Maßanfertigungen — individuell geplant und gefertigt
+→ Fenster & Türen — Reparatur, Austausch oder Neubau
+→ Holzarbeiten aller Art — von der Idee bis zur Montage
+
+Wir beraten Sie persönlich und unverbindlich bei Ihnen vor Ort.
+
+Mehr über unsere Arbeiten finden Sie hier:
+{{ pdf_link }}
+
+Haben Sie ein Projekt, bei dem wir Ihnen helfen können?
+
+Beste Grüße
+{{ sender_name }}
+Karl Brink Tischlereibetrieb | Ein Unternehmen von Gruppenwerk

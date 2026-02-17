@@ -1,0 +1,22 @@
+Betreff: Gerüstbau für {{ company_name }} — zuverlässig, pünktlich, sicher
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+wenn beim Bauprojekt das Gerüst nicht steht, steht alles still. Genau deshalb setzen Bauunternehmen in Hamburg seit über 40 Jahren auf J. Werner Gerüstbau.
+
+Was uns auszeichnet:
+→ Planung ab Projektbeginn — wir denken mit, bevor gebaut wird
+→ Präqualifiziert für öffentliche Vergabeverfahren (PQ VOB)
+→ Mitglied im Bundesverband Gerüstbau
+→ Fassadengerüste, Wetterschutzdächer & Sonderkonstruktionen
+
+Hier finden Sie eine Übersicht unserer Leistungen:
+{{ pdf_link }}
+
+Haben Sie aktuell Projekte in Planung, bei denen wir Sie unterstützen können?
+
+Beste Grüße
+{{ sender_name }}
+J. Werner Gerüstbau | Ein Unternehmen von Gruppenwerk

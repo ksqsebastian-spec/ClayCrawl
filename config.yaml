@@ -1,0 +1,31 @@
+# === API-Einstellungen ===
+anthropic_api_key: "${ANTHROPIC_API_KEY}"  # Aus Umgebungsvariable
+ai_model: "claude-sonnet-4-5-20250929"
+ai_enabled: true                            # false = nur regelbasierte Icebreaker
+ai_max_retries: 3
+ai_rate_limit_delay_seconds: 1              # Pause zwischen API-Calls
+ai_max_tokens: 150                          # Icebreaker sind kurz
+ai_temperature: 0.7                         # Etwas Kreativität, aber kontrolliert
+ai_concurrency: 10                          # Gleichzeitige API-Calls
+
+# === Pfade ===
+input_directory: "./data/input"
+output_directory: "./data/output"
+templates_directory: "./templates"
+promo_materials_config: "./promo_materials/links.yaml"
+segments_config: "./segments/rules.yaml"
+
+# === E-Mail-Einstellungen ===
+default_sender_name: "Axel Seehafer"
+default_language: "de"
+email_format: "plain_text"                  # "plain_text" oder "html"
+
+# === Instantly.ai Einstellungen ===
+instantly_csv_separator: ","
+instantly_csv_encoding: "utf-8"
+campaign_prefix: "gruppenwerk"              # Prefix für campaign_id
+
+# === Verarbeitung ===
+batch_size: 50                              # Leads pro Batch (API-Kostenkontrolle)
+duplicate_check: true                       # Doppelte E-Mails filtern
+log_level: "INFO"                           # DEBUG, INFO, WARNING, ERROR

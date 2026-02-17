@@ -1,0 +1,25 @@
+Betreff: Professionelle Malerarbeiten für Gewerbeobjekte — Maler Hantke, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+gewerbliche Immobilien mit hoher Nutzungsfrequenz brauchen einen Malermeister, der schnell, sauber und termingerecht arbeitet — auch außerhalb der Geschäftszeiten.
+
+Maler Hantke bietet für Gewerbeobjekte in Hamburg:
+
+→ Innenanstriche & Fassadengestaltung
+→ Farbberatung passend zu Ihrem Corporate Design
+→ Bodenbeläge für stark frequentierte Bereiche
+→ Lackierarbeiten & Oberflächenbehandlung
+
+Seit über 35 Jahren arbeiten wir mit umweltfreundlichen Produkten — wichtig für Büro- und Geschäftsräume.
+
+Hier finden Sie eine Übersicht unserer Leistungen:
+{{ pdf_link }}
+
+Stehen bei Ihnen Renovierungsarbeiten an?
+
+Beste Grüße
+{{ sender_name }}
+Maler Hantke | Ein Unternehmen von Gruppenwerk

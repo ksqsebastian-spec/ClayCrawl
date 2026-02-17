@@ -1,0 +1,25 @@
+Betreff: Gebäudesanierung für {{ company_name }} — Werner Bau, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+als Hausverwaltung haben Sie regelmäßig mit Sanierungsthemen zu tun — von der Fassade über Putzarbeiten bis hin zu Heizung und Elektrik. Mit Werner Bau haben Sie einen Partner, der all das aus einer Hand bietet.
+
+Werner GmbH Bauunternehmung steht seit fast 100 Jahren für:
+
+→ Fassadensanierung inkl. Holzschutz und Balkonsanierung
+→ Mauerarbeiten, Putzarbeiten und Malerarbeiten
+→ Tür- und Fenstermontage
+→ Heizungs-, Elektro- und Sanitärarbeiten
+
+Wir sind präqualifiziert für öffentliche Vergabeverfahren (PQ VOB) und arbeiten auch an denkmalgeschützten Objekten.
+
+Eine Übersicht unserer Leistungen finden Sie hier:
+{{ pdf_link }}
+
+Hätten Sie in den nächsten Wochen Zeit für ein kurzes Gespräch?
+
+Beste Grüße
+{{ sender_name }}
+Werner GmbH Bauunternehmung | Ein Unternehmen von Gruppenwerk

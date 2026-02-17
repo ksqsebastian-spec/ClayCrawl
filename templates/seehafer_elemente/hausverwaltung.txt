@@ -1,0 +1,24 @@
+Betreff: Türen & Fenster für {{ company_name }} — schneller Service, keine Wartezeiten
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+als Hausverwaltung kennen Sie das Problem: defekte Türen oder Fenster in Mietobjekten erfordern schnelle, zuverlässige Lösungen — ohne wochenlange Wartezeiten.
+
+Seit 1948 ist Seehafer Elemente der Partner für Hausverwaltungen in Hamburg. Wir bieten:
+
+→ Reparaturservice innerhalb kurzer Reaktionszeiten
+→ Wartungsverträge für Türen & Fenster Ihres gesamten Bestands
+→ Komplettservice von Beratung bis Montage — alles aus einer Hand
+
+Für die Cremon Insel in Hamburg haben wir z.B. über 1.100 Türen geliefert und montiert.
+
+Ich habe eine kurze Übersicht unserer Leistungen für Hausverwaltungen zusammengestellt:
+{{ pdf_link }}
+
+Hätten Sie in den nächsten Wochen Zeit für ein kurzes Gespräch?
+
+Beste Grüße
+{{ sender_name }}
+Seehafer Elemente | Ein Unternehmen von Gruppenwerk

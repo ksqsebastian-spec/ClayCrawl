@@ -1,0 +1,24 @@
+Betreff: Gerüstbau für öffentliche Projekte — präqualifiziert & zuverlässig
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+öffentliche Bauprojekte erfordern einen Gerüstbauer, der die besonderen Anforderungen an Vergabe, Sicherheit und Dokumentation erfüllt. J. Werner Gerüstbau ist dafür aufgestellt.
+
+Unsere Qualifikationen:
+→ Präqualifiziert für öffentliche Vergabeverfahren (PQ VOB)
+→ Mitglied im Bundesverband Gerüstbau
+→ Über 40 Jahre Erfahrung in Hamburg
+→ Wetterschutzdächer & Sonderkonstruktionen für Schulen, Verwaltungsgebäude und mehr
+
+Wir planen ab Projektbeginn mit und stellen sicher, dass unser Gerüst termingerecht steht.
+
+Mehr über unsere Leistungen erfahren Sie hier:
+{{ pdf_link }}
+
+Haben Sie anstehende Projekte, bei denen wir Sie unterstützen können?
+
+Beste Grüße
+{{ sender_name }}
+J. Werner Gerüstbau | Ein Unternehmen von Gruppenwerk

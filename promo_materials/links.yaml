@@ -1,0 +1,33 @@
+# PDF-Links pro Firma & Segment
+# Hinweis: URLs sind Platzhalter — vor Produktivbetrieb durch echte,
+# trackbare Links ersetzen (z.B. DocSend, Google Drive mit Tracking)
+
+seehafer_elemente:
+  default: "https://link.gruppenwerk.de/seehafer-leistungen"
+  hausverwaltung: "https://link.gruppenwerk.de/seehafer-hausverwaltung"
+  gewerbe: "https://link.gruppenwerk.de/seehafer-gewerbe"
+  oeffentlich: "https://link.gruppenwerk.de/seehafer-oeffentlich"
+  referenzen: "https://link.gruppenwerk.de/seehafer-referenzen"
+
+brink_tischlerei:
+  default: "https://link.gruppenwerk.de/brink-leistungen"
+  hausverwaltung: "https://link.gruppenwerk.de/brink-hausverwaltung"
+  bauunternehmen: "https://link.gruppenwerk.de/brink-bau"
+  privat: "https://link.gruppenwerk.de/brink-privat"
+
+maler_hantke:
+  default: "https://link.gruppenwerk.de/hantke-leistungen"
+  hausverwaltung: "https://link.gruppenwerk.de/hantke-hausverwaltung"
+  denkmalschutz: "https://link.gruppenwerk.de/hantke-denkmal"
+  fassade: "https://link.gruppenwerk.de/hantke-fassade"
+
+werner_geruestbau:
+  default: "https://link.gruppenwerk.de/werner-geruestbau-leistungen"
+  bauunternehmen: "https://link.gruppenwerk.de/werner-geruestbau-bau"
+  oeffentlich: "https://link.gruppenwerk.de/werner-geruestbau-oeffentlich"
+
+werner_bau:
+  default: "https://link.gruppenwerk.de/werner-bau-leistungen"
+  fassade: "https://link.gruppenwerk.de/werner-bau-fassade"
+  denkmalschutz: "https://link.gruppenwerk.de/werner-bau-denkmal"
+  oeffentlich: "https://link.gruppenwerk.de/werner-bau-oeffentlich"

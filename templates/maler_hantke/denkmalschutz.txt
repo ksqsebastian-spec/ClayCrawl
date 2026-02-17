@@ -1,0 +1,23 @@
+Betreff: Denkmalgerechte Fassadensanierung für {{ company_name }}
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+denkmalgeschützte Gebäude verlangen einen Malermeister, der das historische Material versteht und gleichzeitig moderne Standards erfüllt.
+
+Maler Hantke arbeitet seit über 35 Jahren an Fassaden in Hamburg — auch an Objekten unter Denkmalschutz. Wir verwenden umweltfreundliche, materialschonende Produkte und beraten Sie individuell zu Farbkonzepten, die zum Charakter Ihres Gebäudes passen.
+
+→ Denkmalgerechte Fassadensanierung
+→ Historische Farbkonzepte & Materialberatung
+→ Umweltfreundliche, materialschonende Produkte
+→ Möbelrestaurierung: Beizen, Kalken, Laugen, Krakelieren
+
+Unsere Referenzen und Leistungen im Bereich Denkmalschutz finden Sie hier:
+{{ pdf_link }}
+
+Darf ich Ihnen ein unverbindliches Angebot erstellen?
+
+Beste Grüße
+{{ sender_name }}
+Maler Hantke | Ein Unternehmen von Gruppenwerk
