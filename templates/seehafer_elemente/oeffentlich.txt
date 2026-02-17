@@ -1,0 +1,24 @@
+Betreff: Türen & Fenster für öffentliche Gebäude — Seehafer Elemente
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+öffentliche Gebäude stellen besondere Anforderungen an Bauelemente: Brandschutz, Barrierefreiheit, Schallschutz und langfristige Wartbarkeit müssen zuverlässig gewährleistet sein.
+
+Seehafer Elemente ist seit über 75 Jahren auf genau diese Anforderungen spezialisiert:
+
+→ Brandschutz- und Sicherheitstüren nach aktuellen Normen
+→ Fenster mit Schallschutz für Schulen, Kliniken und Verwaltungsgebäude
+→ Wartungsverträge für den laufenden Betrieb
+
+Für das Universitätsklinikum SH Lübeck haben wir z.B. 1.350 Türen geliefert und montiert.
+
+Eine Übersicht unserer Leistungen für öffentliche Auftraggeber finden Sie hier:
+{{ pdf_link }}
+
+Haben Sie anstehende Projekte, bei denen wir Sie unterstützen können?
+
+Beste Grüße
+{{ sender_name }}
+Seehafer Elemente | Ein Unternehmen von Gruppenwerk

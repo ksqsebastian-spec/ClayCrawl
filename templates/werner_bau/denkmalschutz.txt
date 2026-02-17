@@ -1,0 +1,25 @@
+Betreff: Denkmalgerechte Gebäudesanierung — Werner Bau, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+die Sanierung denkmalgeschützter Gebäude erfordert Erfahrung, Fingerspitzengefühl und das richtige Handwerk. Werner Bau bringt all das seit fast 100 Jahren mit.
+
+Unsere Spezialisierung im Denkmalschutz:
+
+→ Fachgerechte Fassadensanierung historischer Gebäude
+→ Klinkersanierung an Hamburger Schulen und Kulturbauten
+→ Holzschutz und Balkonsanierung unter Denkmalauflagen
+→ Mauerarbeiten, Putzarbeiten und Malerarbeiten nach historischem Vorbild
+
+Wir sind präqualifiziert für öffentliche Vergabeverfahren (PQ VOB) und arbeiten eng mit Denkmalschutzbehörden zusammen.
+
+Mehr über unsere Leistungen im Bereich Denkmalschutz erfahren Sie hier:
+{{ pdf_link }}
+
+Darf ich Ihnen ein unverbindliches Angebot für Ihr Objekt erstellen?
+
+Beste Grüße
+{{ sender_name }}
+Werner GmbH Bauunternehmung | Ein Unternehmen von Gruppenwerk

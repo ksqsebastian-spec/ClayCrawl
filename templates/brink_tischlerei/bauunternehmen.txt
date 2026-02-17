@@ -1,0 +1,24 @@
+Betreff: Tischlerei-Partner für Ihre Bauprojekte — Karl Brink, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+bei Bauprojekten in Hamburg brauchen Sie einen Tischlereibetrieb, der Qualität liefert und Termine einhält. Als Bautischlerei mit langjähriger Erfahrung sind wir genau darauf spezialisiert.
+
+Karl Brink Tischlereibetrieb bietet für Bauunternehmen:
+
+→ Bautischlerei: Fenster, Türen, Zargen — passgenau nach Maß
+→ Holzarbeiten für Innenausbau und Fassaden
+→ Flexible Kapazitäten auch für größere Projekte
+
+Wir verstehen die Abläufe auf der Baustelle und passen unsere Lieferungen an Ihren Zeitplan an.
+
+Hier finden Sie eine Übersicht unserer Leistungen:
+{{ pdf_link }}
+
+Haben Sie aktuell Bauprojekte, bei denen Sie Tischlerarbeiten benötigen?
+
+Beste Grüße
+{{ sender_name }}
+Karl Brink Tischlereibetrieb | Ein Unternehmen von Gruppenwerk

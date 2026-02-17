@@ -1,0 +1,24 @@
+Betreff: Türen & Fenster für Gewerbeobjekte — Seehafer Elemente, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+in gewerblich genutzten Immobilien müssen Türen und Fenster besonders viel aushalten: hohe Frequenz, Sicherheitsanforderungen und strenge Vorschriften. Genau darauf haben wir uns spezialisiert.
+
+Seehafer Elemente liefert seit 1948 maßgeschneiderte Lösungen für Gewerbeobjekte:
+
+→ Objekttüren mit Schallschutz, Einbruchhemmung & Brandschutz
+→ Fenstersanierung ohne langen Betriebsausfall
+→ Wartungsverträge für Ihren gesamten Bestand
+
+Für das ADAC Hotel Ramada in Hamburg haben wir 580 Türen realisiert — termingerecht und ohne Betriebsunterbrechung.
+
+Hier finden Sie eine Übersicht unserer Leistungen für Gewerbeobjekte:
+{{ pdf_link }}
+
+Haben Sie aktuell Bedarf an Türen, Fenstern oder Wartung für Ihre Objekte?
+
+Beste Grüße
+{{ sender_name }}
+Seehafer Elemente | Ein Unternehmen von Gruppenwerk

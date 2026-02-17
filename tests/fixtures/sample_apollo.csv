@@ -1,0 +1,14 @@
+first_name,last_name,email,title,company_name,industry,company_size,company_revenue,city,state,country,company_linkedin_url,person_linkedin_url,technologies,keywords,seniority,departments,company_website
+Max,Müller,max.mueller@abc-hausverwaltung.de,Facility Manager,ABC Hausverwaltung GmbH,Real Estate,51-200,$10M-$50M,Hamburg,Hamburg,Germany,,,,,Manager,Operations,https://abc-hv.de
+Anna,Schmidt,anna.schmidt@immo-partner.de,Property Managerin,ImmoPartner Hamburg GmbH,Property Management,11-50,$1M-$10M,Hamburg,Hamburg,Germany,,,,,Manager,Operations,https://immopartner.de
+Thomas,Weber,thomas.weber@bauwerk-nord.de,Projektleiter,Bauwerk Nord GmbH,Construction,51-200,$10M-$50M,Hamburg,Hamburg,Germany,,,,Bauprojekte,Manager,Project Management,https://bauwerk-nord.de
+Lisa,Fischer,lisa.fischer@schulamt-hamburg.de,Leiterin Gebäudemanagement,Schulamt Hamburg,Government,201-500,$50M+,Hamburg,Hamburg,Germany,,,,Denkmalschutz Schulen,Director,Operations,https://schulamt-hamburg.de
+Stefan,Koch,stefan.koch@wohnbau-elbe.de,Technischer Leiter,Wohnbau Elbe GmbH,Real Estate,11-50,$1M-$10M,Hamburg,Hamburg,Germany,,,,,Manager,Operations,https://wohnbau-elbe.de
+Marie,Braun,marie.braun@architekten-braun.de,Architektin,Braun Architekten,Architecture & Planning,1-10,$500K-$1M,Hamburg,Hamburg,Germany,,,,Innenausbau,Individual Contributor,Design,https://architekten-braun.de
+Klaus,Wagner,klaus.wagner@hotel-alster.de,Facility Manager,Hotel Alster Hamburg,Hospitality,51-200,$10M-$50M,Hamburg,Hamburg,Germany,,,,Hotels Instandhaltung,Manager,Operations,https://hotel-alster.de
+Petra,Hoffmann,petra.hoffmann@bezirksamt-nord.de,Sachbearbeiterin Vergabe,Bezirksamt Hamburg-Nord,Government,201-500,$50M+,Hamburg,Hamburg,Germany,,,,öffentliche Vergabe,Individual Contributor,Procurement,https://bezirksamt-nord.de
+Jürgen,Becker,juergen.becker@baumeister-becker.de,Geschäftsführer,Baumeister Becker GmbH,Construction,11-50,$1M-$10M,Hamburg,Hamburg,Germany,,,,Bauunternehmen Fassade,Director,Management,https://baumeister-becker.de
+Sandra,Schneider,sandra.schneider@hanse-immo.de,Objektleiterin,Hanse Immobilien Verwaltung,Property Management,51-200,$10M-$50M,Hamburg,Hamburg,Germany,,,,Hausverwaltung Immobilien,Manager,Operations,https://hanse-immo.de
+Frank,Meyer,,Bauleiter,Meyer Bau Hamburg,Construction,11-50,,Hamburg,Hamburg,Germany,,,,,,Operations,
+Andrea,Lehmann,invalid-email,Facility Managerin,Lehmann Verwaltung,Real Estate,11-50,,Hamburg,Hamburg,Germany,,,,,,Operations,
+Max,Müller,max.mueller@abc-hausverwaltung.de,Facility Manager,ABC Hausverwaltung GmbH,Real Estate,51-200,$10M-$50M,Hamburg,Hamburg,Germany,,,,,Manager,Operations,https://abc-hv.de

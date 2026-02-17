@@ -1,0 +1,24 @@
+Betreff: Tischlerarbeiten für {{ company_name }} — zuverlässig & termingerecht
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+ob es um die Instandsetzung von Fenstern und Türen geht oder um Sonderanfertigungen für Ihre Objekte — als Hausverwaltung brauchen Sie einen Tischlereibetrieb, auf den Sie sich verlassen können.
+
+Karl Brink Tischlereibetrieb in Hamburg bietet Ihnen:
+
+→ Bautischlerei: Fenster, Türen und Holzreparaturen
+→ Einbaumöbel & Maßanfertigungen für Gemeinschaftsflächen
+→ Schnelle Reaktionszeiten bei Reparaturbedarf
+
+Wir arbeiten bereits mit mehreren Hausverwaltungen in Hamburg zusammen und kennen die Anforderungen an termingerechte, saubere Arbeit in bewohnten Objekten.
+
+Hier finden Sie eine Übersicht unserer Leistungen:
+{{ pdf_link }}
+
+Darf ich Ihnen ein unverbindliches Angebot erstellen?
+
+Beste Grüße
+{{ sender_name }}
+Karl Brink Tischlereibetrieb | Ein Unternehmen von Gruppenwerk

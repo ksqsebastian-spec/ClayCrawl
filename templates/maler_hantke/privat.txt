@@ -1,0 +1,25 @@
+Betreff: Malerarbeiten für Ihr Zuhause — Maler Hantke, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+ob frische Farbe für die Wände, ein neuer Bodenbelag oder die Sanierung Ihrer Fassade — bei Maler Hantke bekommen Sie professionelle Handwerksarbeit mit persönlicher Beratung.
+
+Was wir für Sie tun können:
+
+→ Innenanstriche & Raumgestaltung mit individueller Farbberatung
+→ Tapezierarbeiten & kreative Wandgestaltung
+→ Bodenbeläge: Parkett, Vinyl, Teppich und Designböden
+→ Fassadenanstrich & Außenarbeiten
+
+Wir verwenden ausschließlich umweltfreundliche, allergikerfreundliche Farben und Materialien.
+
+Mehr über unsere Arbeiten erfahren Sie hier:
+{{ pdf_link }}
+
+Haben Sie ein Projekt, bei dem wir Ihnen helfen können?
+
+Beste Grüße
+{{ sender_name }}
+Maler Hantke | Ein Unternehmen von Gruppenwerk

@@ -1,0 +1,25 @@
+Betreff: Gebäudesanierung für öffentliche Einrichtungen — Werner Bau, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+öffentliche Gebäude — Schulen, Verwaltungen, Kultureinrichtungen — haben besondere Anforderungen an Sanierung und Instandhaltung. Werner Bau bringt dafür fast 100 Jahre Erfahrung mit.
+
+Unsere Leistungen für öffentliche Auftraggeber:
+
+→ Fassadensanierung (inkl. historische Klinkerfassaden)
+→ Gebäudesanierung innen und außen
+→ Mauerarbeiten, Putzarbeiten, Malerarbeiten
+→ Präqualifiziert für öffentliche Vergabeverfahren (PQ VOB)
+
+Wir arbeiten u.a. an Hamburger Schulen mit historischen Klinkerfassaden und kennen die Anforderungen an Denkmalschutz und Vergabekonformität.
+
+Hier finden Sie eine Übersicht unserer Leistungen:
+{{ pdf_link }}
+
+Stehen bei Ihnen Sanierungsprojekte an?
+
+Beste Grüße
+{{ sender_name }}
+Werner GmbH Bauunternehmung | Ein Unternehmen von Gruppenwerk

@@ -1,0 +1,23 @@
+Betreff: Gerüstbau für Ihre Immobilien — J. Werner Gerüstbau, Hamburg
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+Fassadensanierung, Dachreparatur oder Malerarbeiten — für fast alle Arbeiten an der Gebäudehülle brauchen Sie einen zuverlässigen Gerüstbauer. Und genau da kommen wir ins Spiel.
+
+J. Werner Gerüstbau steht seit über 40 Jahren für:
+
+→ Fassadengerüste für Wohnanlagen und Mehrfamilienhäuser
+→ Termingerechte Auf- und Abbauten — abgestimmt auf Ihre Gewerke
+→ Sicherheit als oberste Priorität
+→ Schnelle Reaktionsfähigkeit auch bei kurzfristigem Bedarf
+
+Hier finden Sie eine Übersicht unserer Leistungen:
+{{ pdf_link }}
+
+Stehen bei Ihnen Fassadenarbeiten oder Sanierungen an?
+
+Beste Grüße
+{{ sender_name }}
+J. Werner Gerüstbau | Ein Unternehmen von Gruppenwerk

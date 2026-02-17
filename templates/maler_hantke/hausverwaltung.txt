@@ -1,0 +1,25 @@
+Betreff: Malerarbeiten für {{ company_name }} — professionell & termingerecht
+
+Hallo {{ first_name }},
+
+{{ icebreaker }}
+
+als Hausverwaltung wissen Sie: regelmäßige Malerarbeiten erhalten den Wert Ihrer Immobilien und sorgen für zufriedene Mieter. Dafür brauchen Sie einen Partner, der zuverlässig und termingerecht arbeitet.
+
+Maler Hantke arbeitet seit über 35 Jahren für Hausverwaltungen in Hamburg:
+
+→ Innen- und Außenanstriche für Wohnanlagen
+→ Treppenhäuser, Fassaden und Gemeinschaftsflächen
+→ Bodenbeläge: Parkett, Vinyl, Teppich und Designböden
+→ Schimmel- und Wasserschadensanierung
+
+Wir verwenden umweltfreundliche, allergikerfreundliche Materialien — besonders wichtig in bewohnten Objekten.
+
+Eine Übersicht unserer Leistungen finden Sie hier:
+{{ pdf_link }}
+
+Hätten Sie Interesse an einem unverbindlichen Beratungsgespräch?
+
+Beste Grüße
+{{ sender_name }}
+Maler Hantke | Ein Unternehmen von Gruppenwerk

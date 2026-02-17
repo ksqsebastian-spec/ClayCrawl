@@ -1,0 +1,180 @@
+# Segmentierungsregeln für die Zuordnung von Leads zu Gruppenwerk-Firmen
+#
+# Primärsegmentierung: Welche Firma(en) passen zum Lead?
+# Sekundärsegmentierung: Welches Template innerhalb der Firma?
+
+segmentierung:
+  seehafer_elemente:
+    display_name: "Seehafer Elemente"
+    branchen:
+      - "Real Estate"
+      - "Property Management"
+      - "Facility Management"
+      - "Hospital & Health Care"
+      - "Hospitality"
+      - "Education"
+      - "Construction"
+    jobtitel_keywords:
+      - "Facility"
+      - "Hausverwalt"
+      - "Property"
+      - "Objektleiter"
+      - "technisch"
+      - "Gebäudemanag"
+      - "Instandhaltung"
+    unternehmensgroesse_min: 10
+    kernleistung: "Bauelemente — Türen, Fenster, Wartung & Reparatur seit 1948"
+    templates:
+      - hausverwaltung
+      - gewerbe
+      - oeffentlich
+    default_template: hausverwaltung
+
+  brink_tischlerei:
+    display_name: "Karl Brink Tischlereibetrieb"
+    branchen:
+      - "Real Estate"
+      - "Property Management"
+      - "Construction"
+      - "Architecture & Planning"
+      - "Interior Design"
+    jobtitel_keywords:
+      - "Facility"
+      - "Hausverwalt"
+      - "Property"
+      - "Bau"
+      - "Architekt"
+      - "Innenausbau"
+      - "Projektleiter"
+    unternehmensgroesse_min: 5
+    kernleistung: "Tischlerei & Bautischlerei — Fenster, Türen, Einbaumöbel & Maßanfertigungen"
+    templates:
+      - hausverwaltung
+      - bauunternehmen
+      - privat
+    default_template: hausverwaltung
+
+  maler_hantke:
+    display_name: "Tomas Hantke Malermeister"
+    branchen:
+      - "Real Estate"
+      - "Property Management"
+      - "Facility Management"
+      - "Construction"
+      - "Architecture & Planning"
+      - "Government"
+    jobtitel_keywords:
+      - "Facility"
+      - "Hausverwalt"
+      - "Property"
+      - "Objektleiter"
+      - "Bau"
+      - "Sanierung"
+      - "Denkmalschutz"
+    unternehmensgroesse_min: 5
+    kernleistung: "Maler- und Lackiererarbeiten — Fassaden, Innenanstriche, Denkmalschutz seit 1990"
+    templates:
+      - hausverwaltung
+      - gewerbe
+      - denkmalschutz
+      - privat
+    default_template: hausverwaltung
+
+  werner_geruestbau:
+    display_name: "J. Werner Gerüstbau"
+    branchen:
+      - "Construction"
+      - "Real Estate"
+      - "Property Management"
+      - "Architecture & Planning"
+      - "Government"
+    jobtitel_keywords:
+      - "Bau"
+      - "Projektleiter"
+      - "Bauleiter"
+      - "Facility"
+      - "Hausverwalt"
+      - "Sanierung"
+      - "Fassade"
+    unternehmensgroesse_min: 10
+    kernleistung: "Gerüstbau — Fassadengerüste, Wetterschutzdächer, 40+ Jahre Erfahrung"
+    templates:
+      - bauunternehmen
+      - hausverwaltung
+      - oeffentlich
+    default_template: bauunternehmen
+
+  werner_bau:
+    display_name: "Werner GmbH Bauunternehmung"
+    branchen:
+      - "Real Estate"
+      - "Property Management"
+      - "Government"
+      - "Education"
+      - "Construction"
+    jobtitel_keywords:
+      - "Facility"
+      - "Hausverwalt"
+      - "Property"
+      - "Bau"
+      - "Sanierung"
+      - "Denkmal"
+      - "öffentlich"
+    unternehmensgroesse_min: 10
+    kernleistung: "Bauunternehmen — Fassaden- & Gebäudesanierung, Denkmalschutz, fast 100 Jahre Erfahrung"
+    templates:
+      - hausverwaltung
+      - oeffentlich
+      - denkmalschutz
+    default_template: hausverwaltung
+
+# Sekundärsegmentierung: Welches Template wird gewählt?
+# Reihenfolge = Priorität (erste Regel die matcht, gewinnt)
+template_auswahl:
+  denkmalschutz:
+    beschreibung: "Denkmalschutz-Spezialisten"
+    bedingungen:
+      keywords_enthalten:
+        - "Denkmal"
+        - "Heritage"
+        - "denkmalgeschützt"
+      branchen_enthalten:
+        - "Government"
+
+  oeffentlich:
+    beschreibung: "Öffentliche Auftraggeber / Behörden"
+    bedingungen:
+      branchen_enthalten:
+        - "Government"
+        - "Education"
+
+  bauunternehmen:
+    beschreibung: "Bauunternehmen & Generalunternehmer"
+    bedingungen:
+      branchen_enthalten:
+        - "Construction"
+      titel_enthalten:
+        - "Bau"
+        - "Projektleiter"
+        - "Bauleiter"
+
+  gewerbe:
+    beschreibung: "Gewerbliche Immobilienbesitzer"
+    bedingungen:
+      branchen_enthalten:
+        - "Commercial"
+      unternehmensgroesse_min: 200
+
+  privat:
+    beschreibung: "Privatpersonen (nur Tischlerei & Maler)"
+    bedingungen:
+      unternehmensgroesse_max: 5
+      kein_firmenname: true
+
+  hausverwaltung:
+    beschreibung: "Hausverwaltungen & Property Manager (Fallback)"
+    bedingungen:
+      branchen_enthalten:
+        - "Real Estate"
+        - "Property Management"
+        - "Property"
